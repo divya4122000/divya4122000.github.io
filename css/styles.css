@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 90px;
+  margin-top: 0;
+  font-family: 'Dancing Script', cursive;
+}
+
+.top-container {
+  background-color: #96DCF5;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.en {
+  text-decoration: underline;
+}
